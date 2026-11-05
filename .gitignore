@@ -1,0 +1,6 @@
+__pycache__/
+out_v3/
+figures_v3/
+figures_v4/
+slides_fig/
+*.pyc

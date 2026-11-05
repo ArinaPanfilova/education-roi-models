@@ -1,0 +1,22 @@
+iso,year,log_premium,source,note
+RUS,1998,0.527,Melianova et al. 2020 (RLMS),HE dummy vs secondary
+RUS,2000,0.488,Melianova et al. 2020 (RLMS),
+RUS,2001,0.518,Melianova et al. 2020 (RLMS),
+RUS,2002,0.510,Melianova et al. 2020 (RLMS),
+RUS,2003,0.519,Melianova et al. 2020 (RLMS),
+RUS,2004,0.446,Melianova et al. 2020 (RLMS),
+RUS,2005,0.421,Melianova et al. 2020 (RLMS),
+RUS,2006,0.442,Melianova et al. 2020 (RLMS),
+RUS,2007,0.366,Melianova et al. 2020 (RLMS),
+RUS,2008,0.442,Melianova et al. 2020 (RLMS),
+RUS,2009,0.422,Melianova et al. 2020 (RLMS),
+RUS,2010,0.383,Melianova et al. 2020 (RLMS),
+RUS,2011,0.326,Melianova et al. 2020 (RLMS),
+RUS,2012,0.298,Melianova et al. 2020 (RLMS),
+RUS,2013,0.329,Melianova et al. 2020 (RLMS),
+RUS,2018,0.336,Melianova et al. 2020 via Econs (premium 40%),ln(1.40)
+CHN,2007,0.519,Hanushek Wang Zhang 2023 (CHIP),ln(1.68)
+CHN,2013,0.344,Hanushek Wang Zhang 2023 (CHIP),ln(1.41)
+CHN,2018,0.399,Hanushek Wang Zhang 2023 (CHIP),ln(1.49)
+ZAF,2001,0.219,Kohler 2025 (LFS/QLFS),3 x 0.073 per year tertiary
+ZAF,2023,0.690,Kohler 2025 (LFS/QLFS),3 x 0.23 per year tertiary
